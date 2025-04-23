@@ -74,7 +74,7 @@
 				</tr>
 			</tbody>
 			<tbody v-else>
-				<tr v-for="ld in listardatos" v-bind:key="ld.id">
+				<tr v-for="ld in listaralumnos" v-bind:key="ld.id">
 				<th scope="row">{{ ld.id }}</th>
 				<td>{{ ld.matricula }}</td>
 				<td>{{ ld.nombre }}</td>
