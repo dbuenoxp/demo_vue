@@ -65,7 +65,6 @@
 				<th scope="col">Correo</th>
 				</tr>	
 			</thead>
-			<tr v-for="ld in listaralumnos" v-bind:key="ld.id">
 			<tbody v-if="!listaralumnos">
 				<tr v-for="(row, rowIndex) in rows" :key="rowIndex">
 				<td v-for="(cell, cellIndex) in row" :key="cellIndex">
@@ -81,7 +80,6 @@
 				<td>{{ ld.email }}</td>
 				</tr>
 			</tbody>
-			</tr>
 			</table> 
 
 			<!-- <table
