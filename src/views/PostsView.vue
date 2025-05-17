@@ -2,27 +2,31 @@
 	<div class="posts container">
 		<!-- <img alt="mazebook" src="../assets/img/wordmark.svg" class="logo" /> -->
 		<CardComp
-			class="mt-2 mx-auto single-spot"
-			picture="https://images.pexels.com/photos/169647/pexels-photo-169647.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-			parrafo="primer carta"
+			class="mt-4 mx-auto single-spot"
+			picture="https://blobdojo.blob.core.windows.net/micontenedor/804443cb-ac59-408a-a1f6-5d33cbf4ea2c.jpg"
+			parrafo="Hermosa Ciudad"
 			:header="{
 				name: 'Diego Bueno',
-				picture: 'https://randomuser.me/api/portraits/men/81.jpg',
+				picture: 'https://blobdojo.blob.core.windows.net/micontenedor/73ec9041-c515-4886-ab7b-9411565ac4a2.jpg',
 			}"
 			:likes="true" />
 		<CardComp
-			class="mt-2 mx-auto single-spot"
-			picture="https://images.pexels.com/photos/4067904/pexels-photo-4067904.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-			parrafo="segunda carta"
+			class="mt-4 mx-auto single-spot"
+			picture="https://blobdojo.blob.core.windows.net/micontenedor/10772f6d-04b8-483e-8efa-06d2d594b05b.jpg"
+			parrafo="Gran hazaña de Aliaaaaaaaaanza!!!"
 			:header="{
-				name: 'Shakira mi Crush',
-				picture: 'https://randomuser.me/api/portraits/women/81.jpg',
+				name: 'Diego Bueno',
+				picture: 'https://blobdojo.blob.core.windows.net/micontenedor/73ec9041-c515-4886-ab7b-9411565ac4a2.jpg',
 			}"
 			:likes="true" />
 		<CardComp
-			class="mt-2 mx-auto single-spot"
-			picture="https://images.pexels.com/photos/142497/pexels-photo-142497.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-			parrafo="tercera carta"
+			class="mt-4 mx-auto single-spot"
+			picture="https://blobdojo.blob.core.windows.net/micontenedor/5a7cec01-207c-4655-a48b-03ff11234573.jpg"
+			parrafo="Tarapoto es lo máximo"
+			:header="{
+				name: 'Diego Bueno',
+				picture: 'https://blobdojo.blob.core.windows.net/micontenedor/73ec9041-c515-4886-ab7b-9411565ac4a2.jpg',
+			}"
 			:likes="true" />
 	</div>
 </template>

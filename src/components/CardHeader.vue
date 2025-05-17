@@ -1,6 +1,6 @@
 <template>
 	<div class="card-header">
-		<div class="row">
+		<div class="row mt-2" >
 			<div class="col-2 col-sm-1">
 				<img
 					class="avatar-img"

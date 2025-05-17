@@ -159,6 +159,7 @@
                   </li>
                   <li><div class="dropdown-divider"></div></li>
                   <li><a class="dropdown-item" href="#"><i class="bx bx-user me-2"></i> <span class="align-middle">Mi Perfil</span></a></li>
+                  <li><a class="dropdown-item" href="/posts"><i class="bx bx-user me-2"></i> <span class="align-middle">Mis Publicaciones</span></a></li>
                   <li><a class="dropdown-item" href="#"><i class="bx bx-cog me-2"></i> <span class="align-middle">Configuración</span></a></li>
                   <li><div class="dropdown-divider"></div></li>
                   <li><a class="dropdown-item" href="/"><i class="bx bx-power-off me-2"></i> <span class="align-middle">Cerrar Sesión</span></a></li>
