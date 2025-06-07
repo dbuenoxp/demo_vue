@@ -149,8 +149,9 @@
 	import html2pdf from 'html2pdf.js'
   	import axios from 'axios'
 	import readXlsFile from 'read-excel-file'
-	import { alumnos } from '@/api/alumnos'
-
+	//import { alumnos } from '@/api/alumnos'
+	const baseUrl = import.meta.env.VITE_ENDPOINT_BACKEND
+	const alumnos = baseUrl
 	let modalInstance = null;
 
 	export default {
